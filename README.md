@@ -4,7 +4,7 @@ COMPANY: CODTECH IT SOLUTIONS
 
 NAME: NANDANI KUMARI
 
-INTERN ID: CT08DG3069
+INTERN ID: CITS0D91
 
 DOMAIN: FULL STACK WEB DEVELOPMENT
 
@@ -59,3 +59,5 @@ Browser: Google Chrome or Firefox for testing
 (Optional) Git/GitHub if version control was used
 
 #OUTPUT
+
+<img width="580" height="370" alt="Image" src="https://github.com/user-attachments/assets/beeda93e-0bdd-46fd-aeda-72cd92dc0945" />
